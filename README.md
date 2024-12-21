@@ -1,1 +1,0 @@
-# Cyber-Threat-Intelligence-and-Incident-Response-System
