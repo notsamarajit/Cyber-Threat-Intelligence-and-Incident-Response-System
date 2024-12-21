@@ -1,5 +1,11 @@
 # Cyber Threat Intelligence and Incident Response System
 
+### Author:
+**Smarajit Mane**  
+*(Owner and Developer)*  
+
+---
+
 ### Tags:
 - `cybersecurity`
 - `threat intelligence`
@@ -15,3 +21,9 @@ By completing this project, you will learn about:
 - Incident response
 - Security analytics
 - Cybersecurity best practices
+
+---
+
+### Copyright:
+© 2024 Smarajit Mane. All rights reserved.  
+This project and its contents are the intellectual property of the author and cannot be reproduced or distributed without explicit permission.
